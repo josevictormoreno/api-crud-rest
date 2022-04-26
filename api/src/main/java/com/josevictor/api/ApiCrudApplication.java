@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApiCrudWithSpringBootApplication {
+public class ApiCrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ApiCrudWithSpringBootApplication.class, args);
+		SpringApplication.run(ApiCrudApplication.class, args);
 	}
 
 }
